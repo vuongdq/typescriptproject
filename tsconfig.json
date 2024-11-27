@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+      "outDir": "mjs",
+  },
+  "exclude": [
+    "css",
+    "fonts",
+    "js",
+    "mjs"
+  ]
+}
